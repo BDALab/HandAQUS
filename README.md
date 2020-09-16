@@ -7,3 +7,7 @@ HandAQUS - Handwriting Acquisition Software. Software for the acquisition of han
 
 ## Instalation
 * Download all files and execute __HandAQUS_app.msi__
+
+### Known Bugs
+* Freezing after a long time of usage
+  * Workaround: Restart the application every 30 minutes.
